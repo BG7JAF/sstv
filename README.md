@@ -8,12 +8,13 @@ Currently supports the following modes:
 * Martin 1, 2
 * Scottie 1, 2, DX
 * Robot 36, 72
+* PD120 (new)
 
 Installation
 ------------
 
 ```
-$ git clone https://github.com/colaclanth/sstv.git
+$ git clone https://github.com/BG7JAF/sstv.git
 
 $ python setup.py install
 ```
